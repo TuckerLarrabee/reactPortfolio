@@ -4,9 +4,12 @@ function Footer () {
 
 
     return (
-        <div>
-            
-        </div>
+        <footer>
+            <h2>
+                Created by
+                <a href="mailto:tuckerlarrabee13@gmail.com"> Tucker Larrabee</a>
+            </h2>
+        </footer>
     )
 }
 
