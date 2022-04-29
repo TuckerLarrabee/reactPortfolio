@@ -16,7 +16,7 @@ function Header () {
 
     console.log(currentCategory)
     return (
-        <header className="flex-row px-1">
+        <header className="nav-bar">
             <h2>
                 <a href="/">
                     <span id="myName">Tucker Larrabee</span>

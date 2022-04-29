@@ -4,9 +4,9 @@ function About () {
 
 
     return (
-        <div>
-            
-        </div>
+        <section id="about-me">
+            <div className="about-me-img"></div>
+        </section>
     )
 }
 
