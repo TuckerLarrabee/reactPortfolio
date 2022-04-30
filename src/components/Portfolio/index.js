@@ -3,6 +3,7 @@ import crypto from "../../assets/cryptohub.png"
 import music from "../../assets/MusicYouMayLike.png"
 import weather from "../../assets/WeatherInfoToday.png"
 import gitItDone from "../../assets/GitItDone.png"
+import techblog from "../../assets/tech-blog.png"
 
 function Portfolio () {
 
@@ -44,19 +45,19 @@ function Portfolio () {
                     </a>
                     <div>
                         <a href="https://tuckerlarrabee.github.io/WeatherInfoToday/" target={"_blank"}>
-                            <p >HTML/CSS/JS</p>
+                            <p >Server Side APIs/JS</p>
                             <h3>Weather Info Today</h3>
                         </a>
                     </div>
                 </div>
                 <div className="project4">
-                    <a href="https://tuckerlarrabee.github.io/git-it-done/index.html" target={"_blank"}>
-                        <img style={{margin:0}} src={gitItDone}></img>
+                    <a href="https://pacific-sands-54238.herokuapp.com/" target={"_blank"}>
+                        <img style={{margin:0}} src={techblog}></img>
                     </a>
                     <div>
-                        <a href="https://tuckerlarrabee.github.io/git-it-done/index.html" target={"_blank"}>
-                            <p >HTML/CSS/JS</p>
-                            <h3>Git it Done</h3>
+                        <a href="https://pacific-sands-54238.herokuapp.com/" target={"_blank"}>
+                            <p >MVC/MySQL2/Express</p>
+                            <h3>Tech Blog</h3>
                         </a>
                     </div>
                 </div>
