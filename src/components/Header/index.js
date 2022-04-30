@@ -17,7 +17,7 @@ function Header() {
   return (
     <header className="nav-bar">
       <h2>
-        <a href="/reactPortfolio">
+        <a href="https://tuckerlarrabee.github.io/reactPortfolio/">
           <span id="myName">Tucker Larrabee</span>
         </a>
       </h2>
