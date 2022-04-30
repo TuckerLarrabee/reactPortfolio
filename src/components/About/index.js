@@ -13,11 +13,8 @@ function About () {
             earned a certificate in full stack web development from the 
             University of Richmond, with skills in HTML5/CSS3, JavaScript, 
             Node.js, Express.js, React.js, and responsive web design.
-                </p>
-                <div className="about-me-headshot">
-                    <h2 className="about-me-text">About Me</h2>
-                    <img className="headshot"></img>
-                </div>
+                </p>                
+                <h2 className="about-me-text">About Me</h2>
             </div>
         </section>
     )
