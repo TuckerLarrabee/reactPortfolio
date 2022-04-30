@@ -13,7 +13,7 @@ function Nav(props) {
 
   return (
     <nav>
-      <ul className="flex-row" style={{ margin: 0 }}>
+      <ul className="flex-row" style={{ margin: 0, padding:0  }}>
         {categories.map((category) => (
           <li
             className={`mx-2 ${
@@ -29,6 +29,9 @@ function Nav(props) {
                 console.log(category)
                 setCurrentCategory(category);
                 setContactSelected(false);
+                {if (category.name==='Resume') {
+                    window.open("https://docs.google.com/document/d/1MDFpQ8_zNLsucMpkRwwvGFgmDzkM5M3OeANrs7e0m7k/edit", "_blank")
+                }}
               }}
             >
               {category.name}
