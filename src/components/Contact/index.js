@@ -29,8 +29,10 @@ function Contact () {
                     </a>
                 </div>
                 <div className="linkedin">
-                    <img src={linkedin} alt="linkedin logo"></img>
-                    <h4>LinkedIn</h4>
+                    <a href="https://www.linkedin.com/in/tuckerlarrabee/" target={"_blank"}>
+                        <img src={linkedin} alt="linkedin logo"></img>
+                        <h4>LinkedIn</h4>
+                    </a>
                 </div>
             </div>
         </section>
