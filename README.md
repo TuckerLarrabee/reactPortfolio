@@ -41,8 +41,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Mockup
+![Snag_3affad90](https://user-images.githubusercontent.com/94421867/166115115-a9ca733f-c705-400f-a80f-9f255b2c1f3d.png)
 
 
 
 ## Deployed Application
-
+https://tuckerlarrabee.github.io/reactPortfolio/
