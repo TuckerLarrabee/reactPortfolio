@@ -410,7 +410,7 @@ header a:hover {
   margin: 10px;
 }
 
-.main-project-text p, .project2 p, .project3 p, .project4 p {
+.main-project-text p, .project2 p, .project3 p, .project4 p, .project5 p, .project6 p {
   padding-top: 8px;
   margin: 0;
     text-shadow: 0 0 20px rgb(0 0 0 / 50%);
@@ -426,9 +426,11 @@ header a:hover {
   color: rgb(177, 164, 164);
 } 
 
-.main-project-text h3, .project2 h3, .project3 h3, .project4 h3 {
+.main-project-text h3, .project2 h3, .project3 h3, .project4 h3, .project5 h3, .project6 h3 {
   font-size:1.25rem;
   text-shadow: 1px 1px 2px;
+  color: #F3A847;
+  -webkit-text-stroke: .5px black;
 }
 
 .column {
@@ -448,12 +450,21 @@ header a:hover {
 
 }
 
-.project2 img, .project3 img, .project4 img {
+.project2 img, .project3 img, .project4 img, .project5 img, .project6 img {
   max-width: 300px;
   max-height: 95px;
   width: auto;
   height: auto;
   box-shadow: 3px 3px 8px 0px rgb(0 0 0 / 30%);
+}
+
+.project2, .project3, .project4, .project5, .project6 {
+  padding-bottom: 10px;
+}
+
+.project-text-link {
+  font-style: italic;
+  text-decoration: overline;
 }
 
 .contact {
