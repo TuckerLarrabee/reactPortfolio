@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.938f3719.css",
-    "main.js": "/reactPortfolio/static/js/main.315b76b7.js",
+    "main.css": "/reactPortfolio/static/css/main.cb11b690.css",
+    "main.js": "/reactPortfolio/static/js/main.a21b1fad.js",
     "static/js/787.e29dc422.chunk.js": "/reactPortfolio/static/js/787.e29dc422.chunk.js",
     "static/media/profile-headshot.png": "/reactPortfolio/static/media/profile-headshot.1fea7ae77081a7bad2da.png",
     "static/media/cryptohub.png": "/reactPortfolio/static/media/cryptohub.12a72ee4653095a9db8d.png",
@@ -12,14 +12,15 @@
     "static/media/phone-icon.jpg": "/reactPortfolio/static/media/phone-icon.fec43e92bbc01b03dc83.jpg",
     "static/media/mail-icon.jpg": "/reactPortfolio/static/media/mail-icon.f692afd1f5d412632e2d.jpg",
     "static/media/linkedin.png": "/reactPortfolio/static/media/linkedin.05a3fb1922ddd432a57e.png",
-    "static/media/GitItDone.png": "/reactPortfolio/static/media/GitItDone.0e1fb0419980f1550978.png",
+    "static/media/regex.jpeg": "/reactPortfolio/static/media/regex.6623aa7215ed327779d8.jpeg",
+    "static/media/note-taker.png": "/reactPortfolio/static/media/note-taker.7c6510077a75fc101b78.png",
     "index.html": "/reactPortfolio/index.html",
-    "main.938f3719.css.map": "/reactPortfolio/static/css/main.938f3719.css.map",
-    "main.315b76b7.js.map": "/reactPortfolio/static/js/main.315b76b7.js.map",
+    "main.cb11b690.css.map": "/reactPortfolio/static/css/main.cb11b690.css.map",
+    "main.a21b1fad.js.map": "/reactPortfolio/static/js/main.a21b1fad.js.map",
     "787.e29dc422.chunk.js.map": "/reactPortfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.938f3719.css",
-    "static/js/main.315b76b7.js"
+    "static/css/main.cb11b690.css",
+    "static/js/main.a21b1fad.js"
   ]
 }
