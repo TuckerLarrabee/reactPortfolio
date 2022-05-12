@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/reactPortfolio/static/css/main.cb11b690.css",
-    "main.js": "/reactPortfolio/static/js/main.a21b1fad.js",
+    "main.js": "/reactPortfolio/static/js/main.25e88e4d.js",
     "static/js/787.e29dc422.chunk.js": "/reactPortfolio/static/js/787.e29dc422.chunk.js",
     "static/media/profile-headshot.png": "/reactPortfolio/static/media/profile-headshot.1fea7ae77081a7bad2da.png",
-    "static/media/cryptohub.png": "/reactPortfolio/static/media/cryptohub.12a72ee4653095a9db8d.png",
     "static/media/MusicYouMayLike.png": "/reactPortfolio/static/media/MusicYouMayLike.07e305547b03d7253f16.png",
     "static/media/sticker.png": "/reactPortfolio/static/media/sticker.4e636a12ce6d28ec3569.png",
+    "static/media/cryptohub.png": "/reactPortfolio/static/media/cryptohub.7ea76f89037fa7bacb14.png",
     "static/media/tech-blog.png": "/reactPortfolio/static/media/tech-blog.deb186388bda4e49b3fb.png",
     "static/media/WeatherInfoToday.png": "/reactPortfolio/static/media/WeatherInfoToday.54bfe3c19e4170b693df.png",
     "static/media/phone-icon.jpg": "/reactPortfolio/static/media/phone-icon.fec43e92bbc01b03dc83.jpg",
@@ -16,11 +16,11 @@
     "static/media/note-taker.png": "/reactPortfolio/static/media/note-taker.7c6510077a75fc101b78.png",
     "index.html": "/reactPortfolio/index.html",
     "main.cb11b690.css.map": "/reactPortfolio/static/css/main.cb11b690.css.map",
-    "main.a21b1fad.js.map": "/reactPortfolio/static/js/main.a21b1fad.js.map",
+    "main.25e88e4d.js.map": "/reactPortfolio/static/js/main.25e88e4d.js.map",
     "787.e29dc422.chunk.js.map": "/reactPortfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb11b690.css",
-    "static/js/main.a21b1fad.js"
+    "static/js/main.25e88e4d.js"
   ]
 }
