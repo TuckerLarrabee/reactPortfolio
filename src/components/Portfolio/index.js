@@ -20,10 +20,10 @@ function Portfolio () {
                     </a>
                     <div className="main-project-text">
                         <a href="https://secret-cliffs-96796.herokuapp.com/login" target={"_blank"}>
-                            <p >Node/Express/Handlebars</p>
+                            <p >MongoDB, Express, React, Node.js</p>
                             <h3>CryptoHub</h3>
                         </a>
-                        <a className="project-text-link" href="https://github.com/TuckerLarrabee/CryptoHub" target={"_blank"}>
+                        <a className="project-text-link" href="https://github.com/TuckerLarrabee/cryptohub_project3" target={"_blank"}>
                             Link to Github 
                         </a>
                     </div>
