@@ -15,11 +15,11 @@ function Portfolio () {
             <h2 className="project-text">Current Projects:</h2>
             <div className="row">
                 <div className="main-project">
-                    <a href="https://secret-cliffs-96796.herokuapp.com/login" target={"_blank"}>
+                    <a href="https://cryptohubproject.herokuapp.com/" target={"_blank"}>
                         <img src={crypto}></img>
                     </a>
                     <div className="main-project-text">
-                        <a href="https://secret-cliffs-96796.herokuapp.com/login" target={"_blank"}>
+                        <a href="https://cryptohubproject.herokuapp.com/" target={"_blank"}>
                             <p >MongoDB, Express, React, Node.js</p>
                             <h3>CryptoHub</h3>
                         </a>

@@ -172,7 +172,7 @@ textarea {
   display: flex;
   flex-wrap: wrap;
   align-items: flex-end;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 .space-between {
@@ -522,7 +522,7 @@ footer h2, footer a {
 
 @media screen and (max-width: 535px) {
   .about-me-img p {
-    padding: 0 1vw;
+    padding: 0 5vw;
   }
 }
 
